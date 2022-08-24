@@ -3818,18 +3818,4 @@ end
 
 
 
-local ScriptProperties = {
-    ScriptName = "densoku.lua",
-    ScriptSizeOne = 1000,
-    ScriptSizeTwo =700,
-    ScriptAccent = Color3.fromRGB(0, 0, 255),
 
-    }
-
-
-
-
-
-local Library = library
-
-local Window = Library:New({ Name = ScriptProperties.ScriptName, Accent = Color3.fromRGB(0, 0, 255) })
